@@ -1,6 +1,6 @@
 # IKEA-Sales-Analysis :  Customer Analytics & RFM Segmentation
 
-> *An end-to-end data analytics project using **SQL, Python, and Power BI***  
+> *An end-to-end data analytics project using **SQL, Python, and Power BI***
 ---
 
 ## 📌 Disclaimer
